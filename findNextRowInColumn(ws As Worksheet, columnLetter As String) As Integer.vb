@@ -7,7 +7,7 @@
 '' Comments: 
 '' Changes----------------------------------------------
 '' Date        Programmer     Change
-'' 7/12/2018   Quinn McHugh   Written
+'' <Date>      <Name>         Written
 ''=======================================================
 Public Function findLastRowInColumn(ws As Worksheet, columnLetter As String) As Integer
     findLastRowInColumn = ws.Range(columnLetter & ws.Rows.Count).End(xlUp).Offset(1, 0).row
