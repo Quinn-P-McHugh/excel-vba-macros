@@ -8,7 +8,7 @@
 '' 5/24/2018   Quinn McHugh   Written
 ''=======================================================
 Public Function colNum2Letter(colNumber As Double) As String
-    Dim strArray
+    Dim strArray() As String
     strArray = Split(Cells(1, colNumber).Address(True, False), "$")
     colNum2Letter = strArray(0)
 End Function
