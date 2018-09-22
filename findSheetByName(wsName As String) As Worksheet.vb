@@ -1,8 +1,8 @@
 ''=======================================================
 '' Program:   findSheetByName
 '' Desc:      Searches through all sheets and returns the first sheet who's name exactly matches
-''            the search string
-'' Arguments: wsName -- The name of the worksheet to be used as a search string
+''            the search string.
+'' Arguments: wsName -- The name of the worksheet to be used as a search string.
 '' Comments:
 '' Changes----------------------------------------------
 '' Date       Programmer     Change
