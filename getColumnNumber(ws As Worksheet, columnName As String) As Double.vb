@@ -7,7 +7,7 @@
 '' Comments:  This subroutine only searches the first row of the spreadsheet, so column titles must be in the first row
 '' Changes----------------------------------------------
 '' Date        Programmer     Change
-'' 5/24/2018   Quinn McHugh   Written
+'' <Date>      <Name>         Written
 ''=======================================================
 Public Function getColumnNumber(ws As Worksheet, columnName As String) As Double
     getColumnNumber = WorksheetFunction.Match(columnName, ws.Rows(1).EntireRow, 0)
