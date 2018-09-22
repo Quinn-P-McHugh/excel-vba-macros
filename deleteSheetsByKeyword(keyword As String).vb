@@ -5,7 +5,7 @@
 '' Comments:
 '' Changes----------------------------------------------
 '' Date       Programmer     Change
-'' 5/30/2018  Quinn McHugh   Written
+'' <Date>     <Name>         Written
 ''=======================================================
 Public Sub deleteSheetsByKeyword(keyword As String)
     Dim ws As Worksheet
