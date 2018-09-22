@@ -1,9 +1,9 @@
 ''=======================================================
 '' Program:   findNextRowInColumn
 '' Desc:      Returns the next empty row in a user-specified
-''            column on a user-specified worksheet
-'' Arguments: ws -- The worksheet to be searched
-''            columnLetter -- The letter of the column to be searched
+''            column on a user-specified worksheet.
+'' Arguments: ws -- The worksheet to be searched.
+''            columnLetter -- The letter of the column to be searched.
 '' Comments: 
 '' Changes----------------------------------------------
 '' Date        Programmer     Change
