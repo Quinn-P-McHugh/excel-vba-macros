@@ -5,7 +5,7 @@
 '' Comments:
 '' Changes----------------------------------------------
 '' Date        Programmer     Change
-'' 5/24/2018   Quinn McHugh   Written
+'' <Date>      <Name>         Written
 ''=======================================================
 Public Function colNum2Letter(colNumber As Double) As String
     Dim strArray() As String
