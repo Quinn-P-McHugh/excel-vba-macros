@@ -6,7 +6,7 @@
 '' Comments:
 '' Changes----------------------------------------------
 '' Date       Programmer     Change
-'' 5/30/2018  Quinn McHugh   Written
+'' <Date>     <Name>         Written
 ''=======================================================
 Public Function findSheetByKeyword(keyword As String) As Worksheet
     Dim ws As Worksheet
