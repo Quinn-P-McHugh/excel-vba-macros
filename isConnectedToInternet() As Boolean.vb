@@ -5,10 +5,9 @@
 '' Comments:
 '' Changes----------------------------------------------
 '' Date       Programmer     Change
-'' 5/29/2018  Quinn McHugh   Written
+'' <Date>     <Name>         Written
 ''=======================================================
-
-ublic Declare Function InternetGetConnectedState _
+Public Declare Function InternetGetConnectedState _
                          Lib "wininet.dll" (lpdwFlags As Long, _
                                             ByVal dwReserved As Long) As Boolean
 
