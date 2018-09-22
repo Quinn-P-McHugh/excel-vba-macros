@@ -1,8 +1,8 @@
 ''=======================================================
 '' Program:   findSheetByKeyword
 '' Desc:      Searches through all sheets and returns the first sheet who's name matches
-''            a keyword
-'' Arguments: keyword -- The keyword to be used as a search string
+''            a keyword.
+'' Arguments: keyword -- The keyword to be used as a search string.
 '' Comments:
 '' Changes----------------------------------------------
 '' Date       Programmer     Change
