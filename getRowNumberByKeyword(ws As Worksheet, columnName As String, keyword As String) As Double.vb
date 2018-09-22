@@ -1,10 +1,10 @@
 ''=======================================================
 '' Program:   getRowNumberByKeyword
 '' Desc:      Searches down a user-specified column and returns the row of the first item
-''            that matches a keyword
-'' Arguments: ws         -- The worksheet the macro should target
-''            columnName -- The name of the column to search through
-''	          keyword    -- The keyword to be used as a search string
+''            that matches a keyword.
+'' Arguments: ws         -- The worksheet the macro should target.
+''            columnName -- The name of the column to search through.
+''	      keyword    -- The keyword to be used as a search string.
 '' Comments:
 '' Changes----------------------------------------------
 '' Date       Programmer     Change
