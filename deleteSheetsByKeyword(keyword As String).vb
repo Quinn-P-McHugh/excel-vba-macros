@@ -1,7 +1,7 @@
 ''=======================================================
 '' Program:   deleteSheetsByKeyword
-'' Desc:      Deletes all worksheets who's name matches a user-specified keyword
-'' Arguments: keyword -- The keyword to be used as a search string
+'' Desc:      Deletes all worksheets who's name matches a user-specified keyword.
+'' Arguments: keyword -- The keyword to be used as a search string.
 '' Comments:
 '' Changes----------------------------------------------
 '' Date       Programmer     Change
