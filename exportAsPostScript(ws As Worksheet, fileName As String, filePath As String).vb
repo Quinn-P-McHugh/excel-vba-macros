@@ -1,9 +1,9 @@
 ''=======================================================
 '' Program:   exportAsPostScript
-'' Desc:      Exports a user-specified worksheet as a PostScript file
-'' Arguments: ws       -- The worksheet to be exported
-''            fileName -- The name to be given to the exported file (i.e. "Exported_Spreadsheet")
-''            filePath -- The path that the file should be exported to (i.e. "C:\Documents and Settings\User\Desktop")
+'' Desc:      Exports a user-specified worksheet as a PostScript file.
+'' Arguments: ws       -- The worksheet to be exported.
+''            fileName -- The name to be given to the exported file (i.e. "Exported_Spreadsheet").
+''            filePath -- The path that the file should be exported to (i.e. "C:\Documents and Settings\User\Desktop").
 '' Comments:
 '' Changes----------------------------------------------
 '' Date       Programmer     Change
