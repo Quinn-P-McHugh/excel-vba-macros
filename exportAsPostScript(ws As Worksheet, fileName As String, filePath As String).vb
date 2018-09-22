@@ -7,7 +7,7 @@
 '' Comments:
 '' Changes----------------------------------------------
 '' Date       Programmer     Change
-'' 5/30/2018  Quinn McHugh   Written
+'' <Date>     <Name>         Written
 ''=======================================================
 Public Sub exportAsPostScript(ws As Worksheet, fileName As String, filePath As String)
 	' NOTE: PrintOut command w/ "Adobe PDF" as ActivePrinter outputs a PostScript (.ps) file, NOT a PDF
