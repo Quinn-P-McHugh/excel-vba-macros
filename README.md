@@ -8,7 +8,3 @@ Each macro is contained within its own text file and includes a multiline commen
 
 Microsoft Excel 2003 or later.
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
-
