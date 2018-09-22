@@ -1,7 +1,8 @@
 ''=======================================================
 '' Program:   DynamicVLookup
 '' Desc:      Looks up a user-specified value in a user-specified column in a user-specified
-''            worksheet and returns another value in the same row in another user-specified column
+''            worksheet and returns another value that is in the same row but is in a different
+''            user-specified column
 '' Calls:     getColumnNumber, colNum2Letter
 '' Arguments: wsName        -- The name of the worksheet where the lookup should be performed
 ''            lookupValue   -- The value to be looked up
@@ -14,7 +15,7 @@
 ''            Jane       | Smith     | Orange
 '' Changes----------------------------------------------
 '' Date        Programmer     Change
-'' 6/20/2018   Quinn McHugh   Written
+'' <Date>      <Name>         Written
 ''=======================================================
 Public Function DynamicVLookup(wsName As String, lookupValue As String, _
     lookupColName As String, returnColName As String) As String
