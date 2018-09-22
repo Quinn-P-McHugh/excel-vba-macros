@@ -1,7 +1,7 @@
 ''=======================================================
 '' Program:   colNum2Letter
-'' Desc:      Takes in a column number and returns its equivalent letter
-'' Arguments: columnNumber -- The column number to be converted
+'' Desc:      Takes in a column number and returns its equivalent letter.
+'' Arguments: columnNumber -- The column number to be converted.
 '' Comments:
 '' Changes----------------------------------------------
 '' Date        Programmer     Change
