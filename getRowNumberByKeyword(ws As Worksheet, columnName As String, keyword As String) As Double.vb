@@ -8,7 +8,7 @@
 '' Comments:
 '' Changes----------------------------------------------
 '' Date       Programmer     Change
-'' 5/29/2018  Quinn McHugh   Written
+'' <Date>     <Name>         Written
 ''=======================================================
 Public Function getRowNumberByKeyword(ws As Worksheet, columnName As String, keyword As String) As Double
         Set column = ws.Cells(1, getColumnNumber(ws, columnName)).EntireColumn
